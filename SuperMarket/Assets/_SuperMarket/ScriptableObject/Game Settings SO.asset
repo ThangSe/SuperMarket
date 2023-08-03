@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 360c0a0cad7a96d4ba6efa706ae0a203, type: 3}
+  m_Name: Game Settings SO
+  m_EditorClassIdentifier: 
+  CountdownToStartTime: {fileID: 11400000, guid: 313b71ea62931b24097741ccbaca1984, type: 2}
+  CountdownToStartTimeMax: {fileID: 11400000, guid: f751ba7a2ba4da44d92afb3065a649f1, type: 2}
+  TurnPlayLeft: {fileID: 11400000, guid: 767c2c5ada3e96c47b8fa667603dd5c6, type: 2}
+  TurnPlayMax: {fileID: 11400000, guid: 746dfb74a659bba4d9e5f1197881cd29, type: 2}
+  TimePlayingLeft: {fileID: 11400000, guid: d332a760e03a539478ec47b4aa2435a1, type: 2}
+  TimePlayingMax: {fileID: 11400000, guid: 4f082442909cc28479986acc2e8b3777, type: 2}
+  StartingPosition: {x: 0, y: 0, z: -10}
